@@ -26,8 +26,3 @@ The GenAI Blog Assistant is a FastAPI-based application designed to help analyze
 4. Optionally set `OPENAI_API_KEY` if LLM suggestions are desired.  
 5. Start with `uvicorn main:app --reload`.  
 6. Open Swagger UI at http://127.0.0.1:8000/docs.  
-
-## Deliverables
-- Screen recording of testing the API through Swagger UI.  
-- `README.md` (setup and usage).  
-- `REPORT.md` (architecture, model rationale, scoring, token efficiency).
